@@ -15,7 +15,7 @@ I am a Master's student in **AI & Computational Drug Discovery and Development**
 * **Domain:** Pharmacokinetics (PK/PD), Structure-Based Drug Design (SBDD), Real-World Evidence (RWE)
 
 **📫 Connect**
-* [LinkedIn]([linkedin.com/in/jackfenn/](https://www.linkedin.com/in/jackfenn/))
+* [LinkedIn](https://www.linkedin.com/in/jackfenn/)
 
 <!--
 **j-fenn/j-fenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
