@@ -7,6 +7,7 @@ I am a Master's student in **AI & Computational Drug Discovery and Development**
 **🔬 Current Research & Work**
 * **Shoichet Lab:** Benchmarking **Boltz-2 & AlphaFold 3** against the Similarity Ensemble Approach (SEA) to predict off-target drug interactions.
 * **UCSF Innovation Ventures:** Catalyst Accelerator Intern commercializing novel neurotech devices.
+* **Cell Simulation & Polypharmacology:** Developing a **GEARS-based** (Graph-Enhanced Gene Activation and Repression Simulator) model trained on the **Xaira X-Atlas** (8M cells) to predict synergistic effects of combinatorial gene perturbations.
 * **De Novo Design:** Engineered protein binders for **Nipah Virus (NiV-G)** using **BoltzGen**; designs selected for **experimental validation**.
 
 **🛠️ Technical Stack**
