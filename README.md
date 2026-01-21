@@ -1,6 +1,6 @@
 ## Hi there, I'm Jack Fenn 👋
 
-I am a Master's student in **AI & Computational Drug Discovery and Development** at UCSF.
+I am a Master's student in **AI & Computational Drug Discovery and Development** at UCSF. Here are some cool things I've done and am doing:
 
 🏆 **Winner, NEXT.BIO SF Tech Week Hackathon (2025)**
 
