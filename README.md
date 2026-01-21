@@ -11,9 +11,10 @@ I am a Master's student in **AI & Computational Drug Discovery and Development**
 * **De Novo Design:** Engineered protein binders for **Nipah Virus (NiV-G)** using **BoltzGen**; designs selected for **experimental validation**.
 
 **🛠️ Technical Stack**
-* **Generative AI:** Boltz-1/2, AlphaFold 3, RFdiffusion, BioBERT, GraphRAG
-* **Data & Informatics:** OHDSI/OMOP (ATLAS), SQL, PyTorch, AWS (EC2)
-* **Domain:** Pharmacokinetics (PK/PD), Structure-Based Drug Design (SBDD), Real-World Evidence (RWE)
+* **Generative AI & DL:** Boltz-1/2, AlphaFold 3, RFdiffusion, GEARS, GraphRAG, PyTorch
+* **Bioinformatics:** OHDSI/OMOP (ATLAS), PyMOL, NONMEM, scRNA-seq Analysis
+* **Languages & Ops:** Python (Pandas/NumPy), R, Bash, SQL, Git, AWS (EC2), HPC (Wynton)
+* **Domain Expertise:** Pharmacokinetics (PK/PD), Structure-Based Drug Design (SBDD), Polypharmacology
 
 **📫 Connect**
 * [LinkedIn](https://www.linkedin.com/in/jackfenn/)
