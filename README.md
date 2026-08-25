@@ -1,8 +1,7 @@
 ## Jack Fenn
 
 M.S. in AI & Computational Drug Discovery and Development, UCSF. Biochemist by training,
-now working on evaluation and benchmarking for ML in drug discovery — mostly on the question
-of whether a reported number measures what it claims to.
+now working on evaluation and benchmarking for ML in drug discovery.
 
 Currently ML Bioengineer at Varosync. Previously Shoichet Lab and Bivona Lab at UCSF.
 
@@ -23,13 +22,13 @@ GEARS reproduction on Norman/Adamson/Dixit with every common readout computed on
 predictions. Choosing between two MSEs moves the number by 10–41×; pairing them across models
 manufactures a 17–35× "improvement" between models within 4–37% of each other. Direction accuracy
 sits at 0.19 across all genes and climbs to 0.77 once genes without a measurable response are
-excluded — 91–96% of true deltas are within 1.96 SE of zero.
+excluded, 91–96% of true deltas are within 1.96 SE of zero.
 `PyTorch · PyTorch Geometric · scanpy`
 
 **[stk11-3d-remodeling](https://github.com/j-fenn/stk11-3d-remodeling)** ·
 Hi-C, ATAC and ChIP pipeline for 3D genome remodeling under KRAS-inhibitor resistance across STK11
-contexts. Differential contact analysis without biological replicates — a scored ranking rather than
-manufactured p-values — plus seven pretrained sequence-to-function models and the two silent failure
+contexts. Differential contact analysis without biological replicates, a scored ranking rather than
+manufactured p-values, plus seven pretrained sequence-to-function models and the two silent failure
 modes (assembly mismatch, chimeric read loss) that nearly ruined it. Ships no study data; runs end to
 end on a synthetic fixture.
 `Python · cooler · cooltools · pairtools · Nextflow`
@@ -45,4 +44,4 @@ models · multi-omics pipelines · pharmacovigilance data engineering
 
 ---
 
-📍 San Francisco · [LinkedIn](https://www.linkedin.com/in/jackfenn/) · jack.fenn@ucsf.edu
+San Francisco · [LinkedIn](https://www.linkedin.com/in/jackfenn/) · jack.fenn@ucsf.edu
